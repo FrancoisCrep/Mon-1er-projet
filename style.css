@@ -1,0 +1,15 @@
+h1{
+	font-size: 85px;
+	text-align: center;
+    color: pink;
+}
+
+h2{
+	font-size: 75px;
+	text-align: center;
+	color: purple;
+}
+
+.hello{
+	text-align: center;
+}
